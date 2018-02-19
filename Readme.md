@@ -1,4 +1,6 @@
-##The wonders of macro ecomonics in a none Brexit climate
+<<<<<<< HEAD
+
+##The wonders of macro ecomonics in a Post Brexit climate
 
 ## Introduction
 
